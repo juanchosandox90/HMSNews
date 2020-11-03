@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:contentDescription="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_bookmar"
+        android:contentDescription="Bookmarks"
+        android:icon="@drawable/icon_bookmark"
+        android:title="Bookmarks" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:contentDescription="Profile"
+        android:icon="@drawable/icon_user"
+        android:title="Profile" />
+</menu>
