@@ -1,7 +1,7 @@
 ## :notebook_with_decorative_cover: Introduction 
-HiNews&Event; It is created with HMS kits for phones running with the Android-based HMS service an application where you can follow news-content and events related to Huawei in different categories and easily access innovations and developments in the sector and within Huawei 
+Huawei News & Events; It is created with HMS kits for phones running with the Android-based HMS service an application where you can follow news-content and events related to Huawei in different categories and easily access innovations and developments in the sector.
 
-With the HiNews & Events application;
+With the Huawei News & Events application;
 You can access news and content specific to many categories such as technology, economy, business, enterteintment, latest headlines etc.
 You can access internal and global Huawei events-trainings informations, video recordings of tech talks, webinars and meetups.
 
